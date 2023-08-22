@@ -25,3 +25,10 @@ print("alegre")
 
 print("alegre")
 
+print("alegre")
+print("alegre")
+print("alegre")
+print("alegre")
+print("alegre")
+print("alegre")
+
