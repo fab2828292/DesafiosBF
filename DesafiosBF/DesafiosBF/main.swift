@@ -8,27 +8,4 @@
 import Foundation
 
 
-print("Ola")
-
-print("alegre")
-
-
-
-print("alegre")
-
-print("alegre")
-print("alegre")
-
-
-
-
-
-print("alegre")
-
-print("alegre")
-print("alegre")
-print("alegre")
-print("alegre")
-print("alegre")
-print("alegre")
-
+print("e ai")
