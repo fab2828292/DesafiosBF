@@ -9,6 +9,5 @@ import Foundation
 
 
 print("fabio")
-print("fabio")
-print("fabio")
 
+print("fabio")
